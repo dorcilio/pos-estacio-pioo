@@ -1,6 +1,6 @@
 # Estácio de Sá
 # Curso de Pós Graduação em Engenharia de Software
-## Disciplina de Projeto e Implementação de Orientação a Objetos
+## Disciplina de Projeto e Implementação Orientado a Objetos
 > Aluno
 Dorcílio João de Oliveira Neto
 
